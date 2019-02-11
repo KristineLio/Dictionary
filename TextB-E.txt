@@ -1,0 +1,6 @@
+﻿hello  Здравейте
+good  добре
+bad лошо
+morning сутрин
+afternoon следобед
+noon по обяд 
