@@ -1,0 +1,6 @@
+﻿Книга  book 
+молив  pencil
+часовник  clock 
+врата  door 
+прозорец  window 
+маса  table
